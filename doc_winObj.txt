@@ -1,0 +1,7 @@
+The window object and the document object are two of the most important objects in the JavaScript Browser Object Model (BOM). The window object represents the browser window,
+while the document object represents the HTML document loaded in the window.
+window object is used to access and manipulate the browser window, while the document object is used to access and manipulate the HTML document. However, there are some cases
+where the two objects can be used interchangeably.
+Ultimately, the best way to decide which object to use is to consider the specific task you are trying to accomplish. If you are trying to do something with the browser window,
+such as resize it or open a new link, then you should use the window object. If you are trying to do something with the HTML document, such as get the text of an element or 
+create a new element, then you should use the document object.
